@@ -56,6 +56,9 @@ In this post, I collected some papers on Recommender System which utilize Deep l
 * [48. Deep Learning Based Recommendation: A Survey](https://link.springer.com/chapter/10.1007/978-981-10-4154-9_52)
 * [49. Collaborative Deep Ranking: A Hybrid Pair-Wise Recommendation Algorithm with Implicit Feedback](https://link.springer.com/chapter/10.1007%2F978-3-319-31750-2_44)
 * [50. Modelling Contextual Information in Session-AwareRecommender Systems with Neural Networks, RecSys2016](http://home.elka.pw.edu.pl/~btwardow/recsys2016_btwardow_rnn_ffnn.pdf)
+* [51. CCCFNet: A Content-Boosted Collaborative Filtering Neural Network for Cross Domain Recommender Systems](http://dl.acm.org/citation.cfm?id=3054207)
+* [52. TransNets: Learning to Transform for Recommendation](https://arxiv.org/pdf/1704.02298.pdf)
+* [53. AutoSVD++: An Efficient Hybrid Collaborative Filtering Model via Contractive Auto-encoders](https://arxiv.org/abs/1704.00551)
 
 ## Reports
 * [Recommending music on Spotify with deep learning](http://benanne.github.io/2014/08/05/spotify-cnns.html)
