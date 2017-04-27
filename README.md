@@ -63,7 +63,7 @@ In this post, I collected some papers on Recommender System which utilize Deep l
 * [54. Joint Deep Modeling of Users and Items Using Reviews for Recommendation, WSDM 2017](https://arxiv.org/pdf/1701.04783.pdf)
 * [55.JOINT TRAINING OF RATINGS AND REVIEWS WITH RECURRENT RECOMMENDER NETWORKS, ICLR Rejection Paper](https://openreview.net/pdf?id=HksioDcxl)
 * [56.COLLABORATIVE DEEP EMBEDDING VIA DUAL NETWORKS, ICLR Reject paper](https://openreview.net/pdf?id=r1w7Jdqxl)
-
+* [57. RECURRENT COEVOLUTIONARY FEATURE EMBEDDING PROCESSES FOR RECOMMENDATION, ICLR Reject paper](https://openreview.net/pdf?id=HyWWpw5ex)
 
 ## Reports
 * [Recommending music on Spotify with deep learning](http://benanne.github.io/2014/08/05/spotify-cnns.html)
