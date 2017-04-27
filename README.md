@@ -61,7 +61,7 @@ In this post, I collected some papers on Recommender System which utilize Deep l
 * [53. AutoSVD++: An Efficient Hybrid Collaborative Filtering Model via Contractive Auto-encoders, SIGIR 2017](https://arxiv.org/abs/1704.00551)
 * [54. Matrix Factorization with Neural Networks and Stochastic Variational Inference](https://www.cs.toronto.edu/~jstolee/projects/matrix_factorization_neural.pdf)
 * [54. Joint Deep Modeling of Users and Items Using Reviews for Recommendation, WSDM 2017](https://arxiv.org/pdf/1701.04783.pdf)
-
+* [55.JOINT TRAINING OF RATINGS AND REVIEWS WITH RECURRENT RECOMMENDER NETWORKS](https://openreview.net/pdf?id=HksioDcxl)
 ## Reports
 * [Recommending music on Spotify with deep learning](http://benanne.github.io/2014/08/05/spotify-cnns.html)
 * [Recurrent Neural Networks for Collaborative Filtering](https://erikbern.com/2014/06/28/recurrent-neural-networks-for-collaborative-filtering/)
