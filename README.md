@@ -4,6 +4,7 @@ layout: post
 comments: true
 categories: RecommenderSystem
 ---
+update: A deep learning based recommendation library is available now: https://github.com/cheungdaven/DeepRec
 [Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/abs/1707.07435)
 
 With the ever-growing volume, complexity and dynamicity of online information, recommender system is an effective key solution to overcome such information overload. In recent years, deep learning's revolutionary advances in speech recognition, image analysis and natural language processing have drawn significant attention. Meanwhile, recent studies also demonstrate its effectiveness in coping with information retrieval and recommendation tasks. Applying deep learning techniques into recommender system has been gaining momentum due to its state-of-the-art performances and high-quality recommendations. In contrast to traditional recommendation models, deep learning provides a better understanding of user's demands, item's characteristics and historical interactions between them. 
